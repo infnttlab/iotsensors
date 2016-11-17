@@ -1,0 +1,12 @@
+# Template file for config.py
+
+# Twitter
+consumer_key = "xyz"
+consumer_secret = "xyz" 
+access_key = "xyz"
+access_secret = "xyz"
+
+# ThingSpeak
+id54267_write_key = "xyz"
+id58525_write_key = "xyz"
+
