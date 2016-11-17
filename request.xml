@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://www.w3.org/2003/05/soap-envelope">
+   <soapenv:Header/>
+   <soapenv:Body>
+               <GetValuesRequest xmlns="http://www.schneider-electric.com/common/dataexchange/2011/05"> 
+                                <GetValuesIds>
+<Id>11/Server 1/Supervisione/CLC/POT_TR/SOMMA_val</Id>
+<Id>11/Server 1/Supervisione/CLC/PUE/P_IT</Id>
+<Id>11/Server 1/Supervisione/CLC/POT_GF/SOMMA</Id>
+<Id>11/Server 1/Supervisione/CLC/PUE/PUE_val</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/S1_1/pot</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/S1_2/pot</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/S1_3/pot</Id>
+<Id>11/Server 1/APC/Programmi S2/Somme/S2_1/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S2/Somme/S2_2/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S2/Somme/S2_3/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S2/Somme/S2_4/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/GARR/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/GRID/pot_TOT</Id>
+<Id>11/Server 1/APC/Programmi S1/Somme/LIB/pot_01</Id>
+<Id>11/Server 1/Servers/AS-FRIGO/Lon/Network/CF/INFN_CF/TE1/TE</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA1/TA</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA2/TA</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA3/TA</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA5/TA</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA4/TA</Id>
+<Id>11/Server 1/Servers/AS-QUADRI/Lon/Network/SST2/INFN_SST2/TA6/TA</Id>
+<Id>11/Server 1/Servers/AS-TRAFO/Lon/Network/SR/INFN_SR/TA1/TA</Id>
+
+                                </ns:GetValuesIds>
+                            </ns:GetValuesRequest>
+   </soapenv:Body>
+</soapenv:Envelope>
+
